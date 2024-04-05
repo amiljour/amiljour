@@ -1,23 +1,80 @@
-<h1 align="center">Hello world, I'm Austin!</h1>
+<div style="text-align:center;">
+<h1>Hello world! I'm Austin.</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJoZGQybG80Y2Rpdjd3NjU5eXpwMTIxaHUzcTY1eHk2amFuNHFsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="amiljour" />
+</div>
 
 ###
+<!-- Bio / Summery of myself -->
+<h2>A little about me  </h2>
+
+
+<p>
+  Hi there! I'm an aspiring Software Developer with a strong foundation in programming, web development, and IT support. Passionate about building user-centric applications and solving complex problems with innovative solutions. Eager to contribute to a dynamic team, leveraging a robust skill set in development, troubleshooting, and continuous learning.
+</p>
+
+##
 
 <h3 align="center">Connect with me!</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amiljour&color=73bb4e&style=for-the-badge" height="30" alt="amiljour" />
-  <a href="https://www.linkedin.com/in/austinmiljour/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/austinmiljour/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:austinmiljour@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <a href="mailto:austinmiljour@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a> 
+  <a href="https://drive.google.com/file/d/1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/resume-rebeccapurple?style=for-the-badge&logo=libreoffice&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP%2Fview%3Fusp%3Dsharing" height="30" alt="resume"  />
   </a>
 </div>
 
-##
+#
+
+<!-- Some of my best projects -->
+<!-- <h3>Here are some of my best projects:</h3>
+
+#
+
+A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+#
+
+A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+#
+
+A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+#
+
+A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+# -->
+
+<!-- Projects in progress -->
+<h3>A few projects that I'm working on:</h3>
+
+<a href="https://github.com/amiljour/Game_Nexus_Market">Game Nexus Market</a>:
+This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+###
+
+<a href="https://github.com/amiljour/PreSchool-Project">KinderPrep</a>:
+This project is a sleek, user-friendly preschool website designed for optimal parent engagement and efficient class management. Utilizing React, NodeJS, ExpressJS, and Tailwind, it serves as a digital hub for curriculum insights, class schedules, and teacher introductions, while also facilitating easy access to essential class documents and homework for parents.
+
+<!-- ###
+
+<a href="https://github.com/amiljour/ScreenScope">ScreenScope</a>:
+A project that I am currently working of is . This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+
+###
+
+<a href="https://github.com/amiljour/PlatePlanner">PlatePlanner</a>:
+A project that I am currently working of is  This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community. -->
+
+#
 
 <!-- Tools and Languages that I can use -->
 <div align="center">
+  <h3>Technologies I use:</h3>
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
@@ -63,57 +120,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="35" alt="markdown logo"  />
 </div>
 
-###
-<!-- Bio / Summery of myself -->
-<h2>A little about me</h2>
-<p>
-  Hi there! I'm an aspiring Software Developer with a strong foundation in programming, web development, and IT support. Passionate about building user-centric applications and solving complex problems with innovative solutions. Eager to contribute to a dynamic team, leveraging a robust skill set in development, troubleshooting, and continuous learning.
-</p>
-
-###
-<!-- Some of my best projects -->
-<!-- <h3>Here are some of my best projects:</h3>
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-# -->
-
-<!-- Projects in progress -->
-<h3>A few projects that I'm working on:</h3>
-
-<a href="https://github.com/amiljour/Game_Nexus_Market">Game Nexus Market</a>:
-This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-###
-
-<a href="https://github.com/amiljour/PreSchool-Project">KinderPrep</a>:
-This project is a sleek, user-friendly preschool website designed for optimal parent engagement and efficient class management. Utilizing React, NodeJS, ExpressJS, and Tailwind, it serves as a digital hub for curriculum insights, class schedules, and teacher introductions, while also facilitating easy access to essential class documents and homework for parents.
-
-<!-- ###
-
-<a href="https://github.com/amiljour/ScreenScope">ScreenScope</a>:
-A project that I am currently working of is . This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-###
-
-<a href="https://github.com/amiljour/PlatePlanner">PlatePlanner</a>:
-A project that I am currently working of is  This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community. -->
-
-#
+##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amiljour&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
