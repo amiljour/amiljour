@@ -4,15 +4,13 @@
 </div>
 
 ###
+
 <!-- Bio / Summery of myself -->
 <h2>A little about me  </h2>
-
 
 <p>
   Hi there! I'm an aspiring Software Developer with a strong foundation in programming, web development, and IT support. Passionate about building user-centric applications and solving complex problems with innovative solutions. Eager to contribute to a dynamic team, leveraging a robust skill set in development, troubleshooting, and continuous learning.
 </p>
-
-##
 
 <h3 align="center">Connect with me!</h3>
 
@@ -29,46 +27,23 @@
 #
 
 <!-- Some of my best projects -->
-<!-- <h3>Here are some of my best projects:</h3>
+<h2>Here are some of my best projects:</h2>
+
+<a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>:
+This project is a sleek and user-friendly e-commerce platform designed for the gaming community, utilizing technologies like the Spring Framework, Java, and MySQL DB for a robust and secure online shopping experience. It features real-time inventory tracking, a special sales page, and an easy-to-use admin view for site maintenance. Developed with the modern gamer in mind, it provides a seamless shopping experience across both desktop and mobile devices, catering to all your gaming needs with ease and style.
 
 #
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-#
-
-A project that I am currently working of is <a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>. This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-# -->
 
 <!-- Projects in progress -->
-<h3>A few projects that I'm working on:</h3>
+<h2>A few projects that I'm working on:</h2>
 
-<a href="https://github.com/amiljour/Game_Nexus_Market">Game Nexus Market</a>:
-This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
-
-###
-
-<a href="https://github.com/amiljour/PreSchool-Project">KinderPrep</a>:
-This project is a sleek, user-friendly preschool website designed for optimal parent engagement and efficient class management. Utilizing React, NodeJS, ExpressJS, and Tailwind, it serves as a digital hub for curriculum insights, class schedules, and teacher introductions, while also facilitating easy access to essential class documents and homework for parents.
-
-<!-- ###
-
-<a href="https://github.com/amiljour/ScreenScope">ScreenScope</a>:
-A project that I am currently working of is . This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community.
+<a href="https://github.com/amiljour/PlatePlanner">Plate Planner</a>:
+This project is a dynamic web application that simplifies meal planning, shopping, and recipe management for users. Leveraging the latest in frontend and backend technologies, including HTML, React, Tailwind CSS, JavaScript, Vite, MongoDB, and Mongoose, it offers a responsive, user-friendly interface that works flawlessly across mobile and desktop devices. With features like a weekly meal planner, an auto-populating shopping list, and a rich recipe database with options to save or add personal recipes, PlatePlanner is the ultimate tool for anyone looking to streamline their meal preparation process. Whether planning meals for the week, managing shopping lists, or exploring new recipes, PlatePlanner provides an integrated, efficient solution.
 
 ###
 
-<a href="https://github.com/amiljour/PlatePlanner">PlatePlanner</a>:
-A project that I am currently working of is  This project is a streamlined e-commerce site tailored for gamers, featuring robust technology including the Spring Framework and MySQL DB. It offers real-time inventory, a sales page, and a simple admin interface for easy updates. Optimized for both desktop and mobile, it ensures a seamless shopping experience for the gaming community. -->
+<a href="https://github.com/amiljour/ScreenScope">Screen Scope</a>:
+This project is a streamlined web application designed for casual viewers, offering a direct window to the best of movies and TV shows. Built on a foundation of HTML, Tailwind, CSS, and JS on the frontend, with Python and Flask on the backend, it integrates seamlessly with IMDb's API to deliver trailers, actor profiles, and concise descriptions. Its minimalist approach ensures that users can quickly access essential information without the bloat of conventional platforms. Responsive and user-friendly, ScreenScope allows for saving favorites and easy sharing, making it the perfect tool for exploring and sharing cinematic gems across devices
 
 #
 
@@ -114,6 +89,10 @@ A project that I am currently working of is  This project is a streamlined e-com
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+</div>
+
+<div align="center">
+  <h3>Technologies I'm currently learning:</h3>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
   <img width="10" />
