@@ -15,12 +15,11 @@
 <h3 align="center">Connect with me!</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amiljour&color=73bb4e&style=for-the-badge" height="30" alt="amiljour" />
   <a href="https://www.linkedin.com/in/austinmiljour/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:austinmiljour@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a> 
-  <a href="https://drive.google.com/file/d/1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/resume-rebeccapurple?style=for-the-badge&logo=libreoffice&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP%2Fview%3Fusp%3Dsharing" height="30" alt="resume"  />
+  <a href="https://drive.google.com/file/d/10Fj2JoGrY6bzD-5OkuLCA9ereVqiuSE-/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/resume-rebeccapurple?style=for-the-badge&logo=libreoffice&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP%2Fview%3Fusp%3Dsharing" height="30" alt="resume"  />
   </a>
 </div>
 
@@ -29,8 +28,18 @@
 <!-- Some of my best projects -->
 <h2>Here are some of my best projects:</h2>
 
-<a href="https://github.com/amiljour/Game_Nexus_Market"> Game Nexus Market </a>:
+<a href="https://kinderprepcorona.com">Freelance Job: Kinder Prep Corona</a>:
+Developed a comprehensive web application using React with Vite, Express, and Tailwind for a preschool teacher with over 20 years of experience. The site serves to promote her class and facilitate communication with parents, featuring class descriptions, location details, and teacher profiles. The app also includes a parent review section and an admin view for managing student and parent information, scheduling, and homework distribution. Implemented OAuth for Google Login and hosted the application on AWS and Firebase.
+
+###
+
+<a href="https://github.com/amiljour/Game_Nexus_Market">E-Commerce Web-App: Game Nexus Market</a>:
 This project is a sleek and user-friendly e-commerce platform designed for the gaming community, utilizing technologies like the Spring Framework, Java, and MySQL DB for a robust and secure online shopping experience. It features real-time inventory tracking, a special sales page, and an easy-to-use admin view for site maintenance. Developed with the modern gamer in mind, it provides a seamless shopping experience across both desktop and mobile devices, catering to all your gaming needs with ease and style.
+
+###
+
+<a href="https://github.com/amiljour/DiamondWarriorsBaseballLeague">Program Web-App: Diamond Warriors Baseball League</a>:
+This baseball league project promotes the league and highlights its coaching and facilities. It serves as a sign-up portal for parents, allowing them to join the league and access team information using Google Authentication. Built with React and Vite, the frontend uses HTML, Tailwind, CSS, and JS, ensuring a responsive design for mobile and desktop. Firebase handles the backend and secure authentication via OAuth 2.0. League administrators can manage team assignments, while parents can view practice calendars and volunteer opportunities, fostering community engagement and efficient league management.
 
 #
 
@@ -49,7 +58,7 @@ This project is a streamlined web application designed for casual viewers, offer
 
 <!-- Tools and Languages that I can use -->
 <div align="center">
-  <h3>Technologies I use:</h3>
+  <h3>Technologies I'm Skilled in:</h3>
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
@@ -69,6 +78,10 @@ This project is a streamlined web application designed for casual viewers, offer
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="10" />
