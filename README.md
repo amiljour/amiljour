@@ -19,7 +19,7 @@
   </a>
   <a href="mailto:austinmiljour@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a> 
-  <a href="https://drive.google.com/file/d/10Fj2JoGrY6bzD-5OkuLCA9ereVqiuSE-/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/resume-rebeccapurple?style=for-the-badge&logo=libreoffice&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP%2Fview%3Fusp%3Dsharing" height="30" alt="resume"  />
+  <a href="https://drive.google.com/file/d/1O-diH6x_mfDqo8PSpuRm5Yvpppk_R9eU/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/resume-rebeccapurple?style=for-the-badge&logo=libreoffice&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uNdvAGsZtkcbQboHns0otbYzkT7TiEkP%2Fview%3Fusp%3Dsharing" height="30" alt="resume"  />
   </a>
 </div>
 
