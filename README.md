@@ -73,6 +73,10 @@ This project is a streamlined web application designed for casual viewers, offer
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
@@ -82,6 +86,8 @@ This project is a streamlined web application designed for casual viewers, offer
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="10" />
