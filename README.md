@@ -29,7 +29,7 @@
 <h2>Here are some of my best projects:</h2>
 
 <a href="https://kinderprepcorona.com">Freelance Job: Kinder Prep Corona</a>:
-Developed a comprehensive web application using React with Vite, Express, and Tailwind for a preschool teacher with over 20 years of experience. The site serves to promote her class and facilitate communication with parents, featuring class descriptions, location details, and teacher profiles. The app also includes a parent review section and an admin view for managing student and parent information, scheduling, and homework distribution. Implemented OAuth for Google Login and hosted the application on AWS and Firebase.
+Developed a comprehensive web application using React with Vite, using TypeScript,ß Express, and Tailwind for a preschool teacher with over 20 years of experience. The site serves to promote her class and facilitate communication with parents, featuring class descriptions, location details, and teacher profiles. The app also includes a parent review section and an admin view for managing student and parent information, scheduling, and homework distribution. Implemented OAuth for Google Login and hosted the application on AWS and Firebase.
 
 ###
 
